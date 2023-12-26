@@ -14,7 +14,7 @@ An education company named X Education sells online courses to industry professi
 9. Prediction on test set
 10. Precision - Recall
 # File Details
-1. Lead_Score_Case_Study.ipynb : The python file showing coding and data analysis
+1. Lead_Score_Case_Study_Code.ipynb : The python file showing coding and data analysis
 2. Assignment_Subjective_Questions.pdf : Some subjective questions answered
 3. Lead_Score_Case_Study.pdf : Final Presentation
 4. Leads.csv : Data worked on
